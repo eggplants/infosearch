@@ -1,0 +1,7 @@
+dgl
+matplotlib
+numpy
+pytorch
+gensim
+mecab-python3
+nltk

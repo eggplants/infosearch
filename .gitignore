@@ -1,0 +1,6 @@
+*.zip
+*.vscode/
+data/
+*.swp
+*.save
+__pycache__/
